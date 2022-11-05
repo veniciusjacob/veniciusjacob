@@ -19,3 +19,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veniciusjacob&show_icons=true&locale=en" alt="veniciusjacob" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veniciusjacob&" alt="veniciusjacob" /></p>
+
+<div align="center">
+  
+    ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
